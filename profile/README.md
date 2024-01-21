@@ -2,7 +2,13 @@
 
 ## requirements / valorant digital desktop 
 
+the following are things that an approved valkyrie use can do pertaining to the valorant digital desktop environment.
+
+`note` valkyrie is the catch-all name for the field assets that support the missions and interests of valorant digital.
+
 * As Valkyrie, i can access the valorant digital desktop and save and edit files so that i can perform my duties at the leisure of valorant digital and it's interests.
+
+* as valkyrie, i can access the official valorant digital dashboard so that i can perform my 
 
 * As valkyrie, i can access the official bard account of valorant digital so that i can assist valorant digital with content creation activities of interest.
 
@@ -13,6 +19,9 @@
 * As valkyrie, i can access the official github account of valorant digital so that i can assit valorant digital with public sharing activities of interest
 
 * As valkyrie, i can access the official website of valorant digital so that i can assit valorant digital with public sharing activities of interest
+
+## editor's note ######
+
 
 ## recycle ######
 
